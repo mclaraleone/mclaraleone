@@ -13,5 +13,6 @@
 
 🦕.☄. *. ⋆
 
-! [] ![upload blog](https://github.com/user-attachments/assets/937eecae-51ec-43ba-ae4f-3478c2fb6217)
+ ![upload blog](https://github.com/user-attachments/assets/937eecae-51ec-43ba-ae4f-3478c2fb6217)
+ 
 
